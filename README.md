@@ -8,10 +8,10 @@ I like to learn new stuff and recently started my journey with R to build beauti
 
 You can find me online at all these places:
 
-- 🐦 [Twitter](https://twitter.com/cvidonne)
+- 🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social)
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@cvidonne">Mastodon</a>
+- 🐦 [Twitter](https://twitter.com/cvidonne)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
-- 🔜 [Personal website - Coming soon](https://cedricvidonne.com/)
 - 📊 [UNHCR Dataviz Platform](https://dataviz.unhcr.org/)
 
 <!--
