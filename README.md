@@ -10,7 +10,6 @@ You can find me online at all these places:
 
 - 🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social)
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@cvidonne">Mastodon</a>
-- 🐦 [Twitter](https://twitter.com/cvidonne)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
 - 📊 [UNHCR Dataviz Platform](https://dataviz.unhcr.org/)
 
