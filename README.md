@@ -1,29 +1,22 @@
-### Hello 👋 I'm Cédric
+## Hello 👋 I'm Cédric
 
-I'm an Information Management Officer with the Global Data Service at [UNHCR](https://www.unhcr.org/) in Geneva, Switzerland.
+I'm an **Information Management Officer** with the Global Data Service at [UNHCR](https://www.unhcr.org/) in Geneva, Switzerland.
 
-I'm specializaed in data visualization and map making. I like to share my love for effective chart design with my colleagues and support them with [guidance, best practices and tools](https://dataviz.unhcr.org/).
+I specialize in **data visualization, map-making, and information management** for humanitarian organizations. My focus is on designing effective, accessible, and brand-compliant charts, dashboards, and reports.
 
-I like to learn new stuff and recently started my journey with R to build beautiful and brand compliant [charts](https://vidonne.github.io/unhcrthemes/) and [reports](https://vidonne.github.io/unhcrdown/).
+### What I Work On:
 
-You can find me online at all these places:
+- 🛠 **R for Data Visualization**: Creator of [{unhcrthemes}](https://github.com/unhcr-dataviz/unhcrthemes), a ggplot2 theme.
+- 🎨 **Data Visualization Standards**: Brand compliance and recommendations for charts.
+- 🗺 **Mapping & GIS**: Building interactive refugee maps & crisis response visuals.
+- 📊 **Quarto & Report Automation**: Developing standardized reporting templates.
 
-- 🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social)
-- 🐘 <a rel="nofollow me" href="https://fosstodon.org/@cvidonne">Mastodon</a>
-- 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
-- 📊 [UNHCR Dataviz Platform](https://dataviz.unhcr.org/)
+### Explore My Work
 
-<!--
-**vidonne/vidonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Personal [Codeberg](https://codeberg.org/vidonne), [Github](https://github.com/vidonne) or [Gitlab](https://gitlab.com/vidonne)
+- [UNHCR Dataviz Github](https://github.com/unhcr-dataviz)
+- [UNHCR Dataviz Platform](https://dataviz.unhcr.org/)
 
-Here are some ideas to get you started:
+### Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social) | 🐘 [Mastodon](https://fosstodon.org/@cvidonne) | 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
