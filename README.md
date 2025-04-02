@@ -9,7 +9,7 @@ I specialize in **data visualization, map-making, and information management** f
 - 🛠 **R for Data Visualization**: Creator of [{unhcrthemes}](https://github.com/unhcr-dataviz/unhcrthemes), a ggplot2 theme.
 - 🎨 **Data Visualization Standards**: Brand compliance and recommendations for charts.
 - 🗺 **Mapping & GIS**: Building interactive refugee maps & crisis response visuals.
-- 📊 **Quarto & Report Automation**: Developing standardized reporting templates.
+- 📊 **Report Automation**: Developing RMarkdown and Quarto templates for standardized reporting. Creator of [{unhcrdown}](https://github.com/unhcr-dataviz/unhcrdown), UNHCR-branded RMarkdown document templates and Quarto extensions.
 
 ### Explore My Work
 
