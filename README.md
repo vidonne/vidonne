@@ -1,22 +1,27 @@
-## Hello 👋 I'm Cédric
+## Cédric Vidonne
 
-I'm an **Information Management Officer** with the Global Data Service at [UNHCR](https://www.unhcr.org/) in Geneva, Switzerland.
+I work on data visualization, mapping and information management, mostly in R. Based in Geneva.
 
-I specialize in **data visualization, map-making, and information management** for humanitarian organizations. My focus is on designing effective, accessible, and brand-compliant charts, dashboards, and reports.
+I build tools and standards that help organizations present their data clearly, and I publish open source where I can. I am gradually moving my personal work [here](https://codeberg.org/vidonne).
 
-### What I Work On:
+### UNHCR Data Visualization Platform
 
-- 🛠 **R for Data Visualization**: Creator of [{unhcrthemes}](https://github.com/unhcr-dataviz/unhcrthemes), a ggplot2 theme.
-- 🎨 **Data Visualization Standards**: Brand compliance and recommendations for charts.
-- 🗺 **Mapping & GIS**: Building interactive refugee maps & crisis response visuals.
-- 📊 **Report Automation**: Developing RMarkdown and Quarto templates for standardized reporting. Creator of [{unhcrdown}](https://github.com/unhcr-dataviz/unhcrdown), UNHCR-branded RMarkdown document templates and Quarto extensions.
+The [UNHCR Dataviz Platform](https://dataviz.unhcr.org) is the organisation's central resource for data visualization: guidelines, 
+a chart gallery, templates and tools for Excel, Power BI, Illustrator and GIS, code tutorials in R, Python and D3, and a gallery of published 
+products. I designed and built it, and maintain it.
 
-### Explore My Work
+### Packages and extensions
 
-- Personal [Codeberg](https://codeberg.org/vidonne), [Github](https://github.com/vidonne) or [Gitlab](https://gitlab.com/vidonne)
-- [UNHCR Dataviz Github](https://github.com/unhcr-dataviz)
-- [UNHCR Dataviz Platform](https://dataviz.unhcr.org/)
+Branded, reproducible reporting for humanitarian organizations.
 
-### Connect With Me
+-  [`{unhcrthemes}`](https://github.com/vidonne/unhcrthemes): ggplot2 theme and colour palettes, published on CRAN
+- [`{unhcrdown}`](https://github.com/vidonne/unhcrdown): R Markdown templates for reports and presentations
+- [`quarto-html-unhcr`](https://github.com/vidonne/quarto-html-unhcr): Quarto extension for branded HTML documents
+- [`quarto-revealjs-unhcr`](https://github.com/vidonne/quarto-revealjs-unhcr): Quarto extension for branded slides
+- [`{rmsdown}`](https://github.com/vidonne/rmsdown): R Markdown templates for UNHCR Results Monitoring Surveys reports
+- [`{cccmthemes}`](https://github.com/vidonne/cccmthemes): ggplot2 theme for the CCCM Cluster
+- [`{cccmdown}`](https://github.com/vidonne/cccmdown): R Markdown templates for the CCCM Cluster
 
-🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social) | 🐘 [Mastodon](https://fosstodon.org/@cvidonne) | 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
+### Connect
+
+💻 [Codeberg](https://codeberg.org/vidonne) | 🦋 [Bluesky](https://bsky.app/profile/cvidonne.bsky.social) | 🐘 [Mastodon](https://fosstodon.org/@cvidonne) | 💼 [LinkedIn](https://www.linkedin.com/in/cedricvidonne/)
