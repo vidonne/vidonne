@@ -12,7 +12,7 @@ products. I designed and built it, and maintain it.
 
 ### Packages and extensions
 
-Branded, reproducible reporting for humanitarian organizations.
+Tools for branded, reproducible reporting.
 
 - [`{unhcrthemes}`](https://github.com/vidonne/unhcrthemes): ggplot2 theme and colour palettes, published on CRAN
 - [`{unhcrdown}`](https://github.com/vidonne/unhcrdown): R Markdown templates for reports and presentations
